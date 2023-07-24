@@ -1,0 +1,28 @@
+{
+    "collab": [
+        {
+             "id": 1,
+             "tag":"jesseakoh",
+             "name":"Gang Crocs",
+             "img": "https://crocs-josh.web.app/img/r1.dc3e1f5f.svg"
+        },
+        {
+             "id": 2,
+             "tag":"thecreator",
+             "name":"SZA Crocs",
+             "img": "https://crocs-josh.web.app/img/r2.fc6dbb1e.svg"
+        },
+        {
+             "id": 3,
+             "tag":"sashdesign",
+             "name":"Jiggu Crocs",
+             "img": "https://crocs-josh.web.app/img/r3.c85bde4d.png"
+        },
+        {
+             "id": 4,
+             "tag":"olowoshiibi",
+             "name":"Ambient Crocs",
+             "img": "https://crocs-josh.web.app/img/r4.1c527c88.svg"
+        }
+   ]
+}
