@@ -1,0 +1,10 @@
+/* <a  href="https://icons8.com/icon/Rs7WtznR24Af/crocodile">Crocodile</a> icon by <a* href="https://icons8.com">Icons8</a*/
+* {
+  cursor: none;
+}
+.pointed {
+  width: 64;
+  height: 64;
+  position: absolute;
+  z-index: 10;
+}
